@@ -1,0 +1,9 @@
+main: me.TheAbyswalker.InfectionPerms
+name: InfectionPerms
+version: 0.0.1
+author: TheAbyswalker
+description: The permissions manager for InfectionMc
+commands:
+   BLANK: 
+      description: 
+      usage: 
