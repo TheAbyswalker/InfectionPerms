@@ -4,7 +4,7 @@ This plugin was designed and developed for the __InfectionMC Network__.  It was 
   
 ## Commands, Permissions and descriptions ##
 ### Create rank command ###
-Usage: /rank create {rank name}  
+Usage: /iPerm group create {group name}  
 Permissions: infectionmc.admin.create  
 Description: This command allows the user to create a rank. The rank has no inheritance or permissions by default.  
   
